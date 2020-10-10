@@ -24,5 +24,5 @@ Serious symptoms:
 * Difficulty breathing or shortness of breath
 * chest pain or pressure
 * Loss of speech or movement
-Most of the symptoms overlap with those of flu and common cold. COVID-19 [rarely produces a runny nose.](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19)
+ 
 
