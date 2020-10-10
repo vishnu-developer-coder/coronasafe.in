@@ -6,15 +6,23 @@ description: Describes the major symptoms of COVID-19.
 
 The most common symptoms of COVID-19 are fever, tiredness, and dry cough. They are usually mild and begin gradually. They appear around [2 - 14 days](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html) with average symptoms showing up after 5 days of being infected.
 
-Some symptoms appear less common than others. The major symptoms of COVID-19 based on how [common](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19) it appears in the reported cases are 
+Most common symptoms:
+* Fever
+* Dry cough
+* Tiredness
 
-* Fever 
-* Dry Cough 
-* Fatigue 
-* Sputum Production 
-* Shortness of Breath 
-* Muscle Pain or Joint Pain
-* Sore Throat 
+Less common symptoms:
+* Aches and pains
+* Sore throat
+* Diarrhoea
+* Conjunctivitis
+* Headache
+* loss of taste or smell
+* A rash on skin, or discolouration of fingers or toes
 
+Serious symptoms:
+* Difficulty breathing or shortness of breath
+* chest pain or pressure
+* Loss of speech or movement
 Most of the symptoms overlap with those of flu and common cold. COVID-19 [rarely produces a runny nose.](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19)
 
